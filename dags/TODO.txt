@@ -1,0 +1,3 @@
+Criar captura dos dados de Empresas do site :
+https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
+É um zip, então precisa descompactar o csv
